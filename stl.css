@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'Lato Light';
+	src: url('fonts/lato_light.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/lato_light.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/lato_light.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/lato_light.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/lato_light.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/lato_light.svg#lato_light') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+body{
+    background-color: rgb(223, 236, 232);
+    font-family: 'Lato Light', sans-serif;
+}
+h1{color: blueviolet;}
+h2{color: rgb(74, 37, 109);}
+img{
+    width: 40vh;
+margin-left: 10px;}
